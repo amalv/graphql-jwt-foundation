@@ -2,8 +2,8 @@ const Sequelize = require('sequelize');
 
 const database = new Sequelize(
   'graphql',
-  'root',
-  'test',
+  'root', // mysql user
+  'test', // mysql password
   {
     host: 'localhost',
     dialect: 'mysql',
