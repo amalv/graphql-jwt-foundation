@@ -1,5 +1,7 @@
 # graphql-jwt-foundation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amalv/graphql-jwt-foundation.svg)](https://greenkeeper.io/)
+
 Graphql foundation with JWT based authentication support
 
 ## Prerequisite
